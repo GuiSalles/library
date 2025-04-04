@@ -1,6 +1,6 @@
 [![tests](https://github.com/andrehora/library/actions/workflows/tests.yml/badge.svg)](https://github.com/andrehora/library/actions/workflows/tests.yml)
 
-# Testando o teste automático
+# Testando o teste automático!
 
 # Library refactoring example
 
