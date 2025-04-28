@@ -55,6 +55,7 @@ class Book:
     def get_frequent_renter_points(self, days_rented: int):
         return self.price.get_frequent_renter_points(days_rented)
 
+
 class Rental:
     def __init__(self, book: Book, days_rented: int):
         self.book = book
